@@ -1,2 +1,3 @@
 # hi
-learning how to use git
+learning how to use git 
+let's start coding
